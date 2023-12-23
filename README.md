@@ -4,7 +4,7 @@ cd Toxi
 
 git pull
 
-python Ayesha-b.py
+python toxi.py
 
 
 
