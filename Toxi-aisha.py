@@ -1,1 +1,1 @@
-improt MAMA
+import MAMA
