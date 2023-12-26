@@ -4,7 +4,7 @@ cd Toxi
 
 git pull
 
-python toxi.py
+python Toxi-aisha.py
 
 
 
