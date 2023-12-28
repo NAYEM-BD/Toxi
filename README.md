@@ -1,5 +1,4 @@
-*owner
-*nayem hasan
+
 
 ```
 rm -rf Toxi
