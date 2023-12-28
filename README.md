@@ -1,4 +1,3 @@
-up'''
 
 rm -rf Toxi
 
